@@ -1,7 +1,7 @@
 # Hi, I'm Edgar Bello 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-belloedgar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belloedgar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4d9cff?style=flat&logo=googlechrome&logoColor=white)](https://edgar-bello.github.io/edgar-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4d9cff?style=flat&logo=googlechrome&logoColor=white)]([https://edgar-bello.github.io/edgar-portfolio](https://edgar-bello.github.io/Edgar-Portfolio/))
 [![YouTube](https://img.shields.io/badge/YouTube-FRC%20Tutorials-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@edgarbellogonzalez6757/videos)
 [![Instagram](https://img.shields.io/badge/Cowbots-@cowbots.robotics-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cowbots.robotics/)
 
